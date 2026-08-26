@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShowmikDebnath&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
+  <img src="https://streak-stats.demolab.com/?user=ShowmikDebnath&hide_border=true" />
 </p>
 
 ---

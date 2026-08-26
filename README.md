@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Showmik Debnath 👋</h1>
 
-<h3 align="center">CSE Graduate · Master's Student @ SUST · Practicing AI Engineering</h3>
+<h3 align="center">CSE Graduate · Master's Student @ SUST · Aspiring AI Engineer</h3>
 
 <p align="center">
   <a href="https://showmikdebnath.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -17,11 +17,12 @@
 
 ### 🚀 About Me
 
-- 🎓 CSE graduate from **Leading University, Sylhet** - currently pursuing a **Master's in Information Technology (MIT) at SUST**
-- 💼 Technical Support Engineer with hands-on SaaS/web-platform experience
-- 🔭 Currently deepening my skills in **AI Engineering - LLMs, RAG, and agent frameworks**
-- 📱 Also build mobile apps with Flutter, alongside backend and ML work
-- 💬 Ask me about Python, machine learning, Flutter, or backend APIs
+- 🎓 CSE graduate from **Leading University, Sylhet** · currently pursuing a **Master's in Information Technology at SUST**
+- 💻 Software Engineer focused on **AI Engineering, backend development, and intelligent applications**
+- 🤖 Currently building hands-on projects with **LLMs, RAG, LangChain, and AI agents**
+- ⚙️ Experienced in building **REST APIs, ML applications, and cross-platform mobile apps**
+- 🔬 Research background in **Machine Learning, NLP, and healthcare AI**
+- 💬 Interested in collaborating on AI/ML, LLM, backend, and software engineering projects
 
 ---
 
@@ -56,22 +57,20 @@
 
 ### 📊 GitHub Analytics
 
+---
+
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShowmikDebnath&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShowmikDebnath&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShowmikDebnath&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShowmikDebnath&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShowmikDebnath&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
+  <img src="https://streak-stats.demolab.com/?user=ShowmikDebnath&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShowmikDebnath&theme=minimal&hide_border=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShowmikDebnath&theme=flat&no-frame=true&row=1&column=6" />
-</p>
+---
 
 ---
 

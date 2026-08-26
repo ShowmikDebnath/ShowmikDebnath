@@ -65,6 +65,10 @@
   <img src="https://img.shields.io/github/stars/ShowmikDebnath?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow&affiliations=OWNER" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ShowmikDebnath&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
+</p>
+
 ---
 
 <p align="center"><i>Always open to collaborating on AI/ML, backend, or mobile projects - feel free to reach out!</i></p>

@@ -58,16 +58,12 @@
 ---
 
 ### 📊 GitHub Analytics
-
+ 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShowmikDebnath&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShowmikDebnath&layout=compact&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/ShowmikDebnath?style=for-the-badge&logo=github&label=Followers&color=blue" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/ShowmikDebnath&color=success" />
+  <img src="https://img.shields.io/github/stars/ShowmikDebnath?style=for-the-badge&logo=github&label=Total%20Stars&color=yellow&affiliations=OWNER" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShowmikDebnath&hide_border=true" />
-</p>
-
 
 ---
 

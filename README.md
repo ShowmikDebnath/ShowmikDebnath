@@ -17,9 +17,9 @@
 
 ### 🚀 About Me
 
-- 🎓 CSE graduate from **Leading University, Sylhet** — currently pursuing a **Master's in Information Technology (MIT) at SUST**
+- 🎓 CSE graduate from **Leading University, Sylhet** - currently pursuing a **Master's in Information Technology (MIT) at SUST**
 - 💼 Technical Support Engineer with hands-on SaaS/web-platform experience
-- 🔭 Currently deepening my skills in **AI Engineering — LLMs, RAG, and agent frameworks**
+- 🔭 Currently deepening my skills in **AI Engineering - LLMs, RAG, and agent frameworks**
 - 📱 Also build mobile apps with Flutter, alongside backend and ML work
 - 💬 Ask me about Python, machine learning, Flutter, or backend APIs
 
@@ -27,7 +27,7 @@
 
 ### 🛠️ Skills
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **AI / ML:** ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-4B0082?style=flat-square) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
@@ -46,8 +46,8 @@
 | 🛒 [**Bazar API**](https://github.com/ShowmikDebnath/Bazar-API) | E-commerce backend API with product, order, and auth management | FastAPI, PostgreSQL |
 | 🤖 [**AI Playground**](https://github.com/ShowmikDebnath/AI-Playground) | 7 hands-on experiments in LLM apps — RAG, chains, and agents | Groq (LLaMA 3.3), LangChain, ChromaDB |
 | ✍️ [**Grammar Guru**](https://github.com/ShowmikDebnath/Grammar-Guru) | Full-stack grammar checking web app | FastAPI + HTML/JS |
-| 📱 [**Flutter App #1 — name TBD**](#) | *(add link)* | Flutter, Dart |
-| 📱 [**Flutter App #2 — name TBD**](#) | *(add link)* | Flutter, Dart |
+| 🍱 [**TiffinsClub**](https://github.com/ShowmikDebnath/TiffinsClub) | Food ordering app for a restaurant, supporting both delivery and pickup | Flutter, Dart |
+| 👨‍💻 [**CodersCombo**](https://github.com/ShowmikDebnath/CodersCombo-Optimistic) | Social platform for coders to share DSA blogs | Flutter, Dart |
 | 🩺 [**Breast Cancer Classification**](https://github.com/ShowmikDebnath/Breast_Cancer_Classification_using_Machine_Learning) | ML model for tumor classification | Python, scikit-learn |
 | ❤️ [**Cardiovascular Disease Detection**](https://github.com/ShowmikDebnath/Cardiovascular_Disease_Detection_ML) | Predictive ML model for cardiovascular risk | Python, scikit-learn |
 | 🏏 [**IPL Win Probability Predictor**](https://github.com/ShowmikDebnath/IPL_Win_Probability_Predictor_ML_Project) | Live win-probability predictor for IPL matches | Python, scikit-learn |
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShowmikDebnath&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ShowmikDebnath&hide_border=true&hide_current_streak=true&hide_longest_streak=true" />
 </p>
 
 <p align="center">
@@ -75,4 +75,4 @@
 
 ---
 
-<p align="center"><i>Always open to collaborating on AI/ML, backend, or mobile projects — feel free to reach out!</i></p>
+<p align="center"><i>Always open to collaborating on AI/ML, backend, or mobile projects - feel free to reach out!</i></p>

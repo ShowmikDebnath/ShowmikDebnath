@@ -2,7 +2,7 @@
 
 <h3 align="center">CSE Graduate · Master's Student @ SUST · Aspiring AI Engineer</h3>
 
-<p align="center"> <a href="https://showmikdebnath.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://www.linkedin.com/in/showmikdebnath/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/DebnathShowmik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://www.facebook.com/showmik.debnath/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShowmikDebnath&label=Profile%20Views&color=blue&style=flat" /> </p>
+<p align="center"> <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://www.linkedin.com/in/showmikdebnath/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/DebnathShowmik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://www.facebook.com/showmik.debnath/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ShowmikDebnath&label=Profile%20Views&color=blue&style=flat" /> </p>
 
 ---
 
